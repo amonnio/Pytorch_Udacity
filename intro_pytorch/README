@@ -15,4 +15,4 @@
   - Dogs and Cats Kaggle database
 
 8- Use transfer learning to train a state-of-the-art image classifier for dogs and cats
-
+  - models.densenet121(pretrained=True)
