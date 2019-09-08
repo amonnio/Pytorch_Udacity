@@ -1,0 +1,4 @@
+Gradient clipping is a technique to prevent exploding gradients in very deep networks, usually in recurrent neural networks.
+Two common issues with training recurrent neural networks are vanishing gradients and exploding gradients. 
+Exploding gradients can occur when the gradient becomes too large and error gradients accumulate, resulting in an unstable network.
+Vanishing gradients can happen when optimization gets stuck at a certain point because the gradient is too small to progress.
