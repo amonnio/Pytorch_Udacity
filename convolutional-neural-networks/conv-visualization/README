@@ -1,1 +1,5 @@
 
+CNNs are a kind of deep learning model that can learn to do things like image classification and object recognition. 
+They keep track of spatial information and learn to extract features like the edges of objects in something called a convolutional layer.
+Below you'll see an simple CNN structure, made of multiple layers, below, including this "convolutional layer".
+
